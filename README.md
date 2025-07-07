@@ -12,7 +12,11 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##TASK IS TEXT SUUMARIZATION TOOL , VS CODE IS USED
+## TASK IS TEXT SUUMARIZATION TOOL , VS CODE IS USED
 
 #OUTPUT
+
+<img width="1247" height="271" alt="Image" src="https://github.com/user-attachments/assets/e4019a01-078f-413f-943c-87881146f3d2" />
+
+
 
